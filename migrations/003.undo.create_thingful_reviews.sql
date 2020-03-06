@@ -1,1 +1,1 @@
-DROP TABLE IF EXISTS thingful_reviews;
+DROP TABLE IF EXISTS thingful_reviews CASCADE;
